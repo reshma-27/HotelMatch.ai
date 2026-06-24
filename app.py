@@ -2,7 +2,7 @@ import streamlit as st
 import re
 from math import radians, sin, cos, sqrt, atan2
 
-st.set_page_config(page_title='StayMatch AI', page_icon='🏨', layout='wide')
+st.set_page_config(page_title='HotelMatch.ai', page_icon='🏨', layout='wide')
 
 st.markdown('''
 <style>
