@@ -173,7 +173,7 @@ if 'prompt_text' not in st.session_state:
 
 st.markdown('''
 <div class="hero">
-  <h1>🏨 StayMatch AI</h1>
+  <h1>🏨 HotelMatch.ai</h1>
   <p>Describe your perfect stay in plain language. The assistant extracts preferences, ranks matching hotels, and explains every recommendation.</p>
 </div>
 ''', unsafe_allow_html=True)
